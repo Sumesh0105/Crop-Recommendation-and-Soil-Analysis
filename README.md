@@ -2,6 +2,12 @@
 
 India is the homeland to a variety of crops and the second populous country. The major percentage of the population are dependent on Agriculture for a living.The growing need of demand for food urges the young ML engineers like us to develop sophisticated systems for a more efficient farming and make it more profitable too. This project has a wide vision of implementing this crop recommendation system to the country's benefit.
 
+
+
+The crop recommendation system takes the state,district,season,year,crop and total area as input from which it processes and compares the production yield for that area with all the crops and recommends the best one to sow.
+
+
+
 Dataset is taken from Kaggle. Link : https://www.kaggle.com/datasets/srinivas1/agricuture-crops-production-in-india
 
 
