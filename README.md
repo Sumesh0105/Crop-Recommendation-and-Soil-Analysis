@@ -8,11 +8,18 @@ Dataset is taken from Kaggle. Link : https://www.kaggle.com/datasets/srinivas1/a
 Algorithm :
 
 Accuracy of the model using Linear Regression is 95%.
+
 Accuracy of the model using Decision Tree Regressor is 96%.
+
 Accuracy of the model using Random Forest Regressor is 97%.
+
 Accuracy of the model using Support Vector Regression is 96%.
 
+
+
+
 Out of the four Algorithms, Random Forest Regressor has better Performance.
+
 After Cross Validation of Random Forest Regressor the Accuracy is 99% and it is used for development of model.
 
 Deployment :
